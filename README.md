@@ -2,7 +2,7 @@
 I am MERN Stack Web Developer.<br>I am capable of making scalable and efficient web application to solve realtime problems.<br>I am passionate about working apllication and problem solving.
 
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me:
 
 <p align="left">
   <a href="https://linkedin.com/in/MoizHussain" target="_blank">
