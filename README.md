@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img src="dark_mode.svg" width="100%" />
+</picture>
+
 # 💫 About Me:
 I am MERN Stack Web Developer.<br>I am capable of making scalable and efficient web application to solve realtime problems.<br>I am passionate about working apllication and problem solving.
 
